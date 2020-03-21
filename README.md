@@ -8,12 +8,13 @@ do Tello: Lançar para voar, Sobe e desce e Manobras 8D. A câmera de 5 MP do Te
 de câmera Circular, 360, e Distanciar. O Tello utiliza o Scratch, o programa do MIT desenvolvido para ensinar crianças a programar código,
 expandindo assim as opções de voo do drone.
 
-
 ![Drone Tello](https://user-images.githubusercontent.com/51087767/76705875-32314600-66c2-11ea-8da9-2b902c175e93.jpg)
 
+### Indicação referente a seu uso para aprender programação, onde encontram instruções: 
 
-### Indicação
-
-Site espanhol "Drone PRIX", que aborda tutoriais, matérias, aplicações, referente a programação do Drone DJI Tello e seu uso educacional.
-
-<a href="http://dronesenlasaulas.es/">Clique aqui para acessar: Drone PRIX "Drones En La Aulas"</a>
+<ul>
+  <li> Site espanhol "Drone PRIX", que aborda tutoriais, matérias, aplicações, referente a programação do Drone DJI Tello e seu uso educacional. </li> <br>
+  
+  <a href="http://dronesenlasaulas.es/">Clique aqui para acessar: Drone PRIX "Drones En La Aulas"</a>
+    
+</ul>
