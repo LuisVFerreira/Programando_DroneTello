@@ -10,7 +10,7 @@ expandindo assim as opções de voo do drone.
 
 ![Drone Tello](https://user-images.githubusercontent.com/51087767/76705875-32314600-66c2-11ea-8da9-2b902c175e93.jpg)
 
-### Indicação referente a seu uso para aprender programação, onde encontram instruções: 
+### Indicação referente a seu uso para aprender programação, onde encontrar instruções: 
 
 <ul>
   <li> Site espanhol "Drone PRIX", que aborda tutoriais, matérias, aplicações, referente a programação do Drone DJI Tello e seu uso educacional. </li> <br>
